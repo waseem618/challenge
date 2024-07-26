@@ -1,0 +1,118 @@
+
+img{
+     width: 100%;
+    height: 550px; 
+    border-radius: 50px 50px 50px 50px;
+   
+    
+
+
+}
+.chip{
+    list-style-type: decimal;
+    color: aliceblue;
+    font-style: italic;
+    font-size: larger;
+}
+.cooki{
+    list-style-type: circle;
+    color: aliceblue;
+    font-style: italic;
+    font-size: larger;
+}
+.lava{
+    list-style-type: square;
+    color: aliceblue;
+    font-style: italic;
+    font-size: larger;
+}
+.sugar{
+    list-style-type: lower-roman;
+    color: aliceblue;
+    font-style: italic;
+    font-size: larger;
+}
+.ginger{
+    list-style-type: lower-latin;
+    color: aliceblue;
+    font-style: italic;
+    font-size: larger;
+}
+.star{
+    list-style-image: url(./star-sharp-svgrepo-com.svg);
+   font-weight: bold;
+   font-size: larger;
+   
+}
+ .inside{
+    list-style-position: inside;
+    color: aliceblue;
+    font-style: italic;
+    font-size: larger;
+}
+.outside{
+    list-style-position: outside;
+    color: aliceblue;
+    font-style: italic;
+    font-size: larger;
+}
+p{
+    font-size: larger;
+    line-height: 20px;
+    font-weight: bold;
+    font-size: larger;
+}
+h3{
+    margin: 30px;
+    padding: 30px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.int{
+    background-color: red;
+    height: 50px;
+    border-radius: 20px 20px 20px 20px;
+    font-size: larger;
+   
+}
+.butter{
+    background-color: blue;
+    border-radius: 20px 20px 20px 20px;
+    font-size: xx-large;
+    height: 100px;
+}
+.eggs{
+    background-color: brown;
+    border-radius: 20px 20px 20px 20px;
+    font-size: xx-large;
+    height: 100px;
+}
+.van{
+    background-color: blueviolet;
+    border-radius: 20px 20px 20px 20px;
+    font-size: xx-large;
+    height: 100px;
+}
+.shadow{
+    background-color: rgb(94, 18, 194);
+    height: 100px;
+    width: 93%;
+    box-shadow: 20px 20px 10px#4b381d;
+   border-radius: 20px 20px 20px 20px;
+   padding: 50px;
+   margin-bottom: 50px;
+   
+}
+.alig1{
+    background-color:purple;
+    border-radius: 20px 20px 20px 20px;
+    
+}
+.alig{
+    color: white;
+   width: 100%;
+    height: 150px;
+    text-align: left;
+    font-weight: bold;
+    font-size: larger;
+   
+}
